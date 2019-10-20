@@ -4,7 +4,7 @@
 *This blog is made for college needs as a example of using Laravel skills and MySQL databases.*
 **For best experience log in as administrator, so you can use all features** </br>
 <ul>
-    <li> Admin uploads photographies, manage registered users, track activites </li>
+    <li> Admin uploads photographies, manage registered users, track activites, etc.. </li>
     <li> Other registred users can comment on every photo on website </li>
 </ul>
 
