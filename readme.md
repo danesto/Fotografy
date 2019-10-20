@@ -1,4 +1,5 @@
 <h1> A simplte phtography blog where photographers can upload there photos.</h1>
+<h1>Open up photo.zip for full project</h1>
 
 <p>Website was a college project. It represents Laravel skills</p>
 
