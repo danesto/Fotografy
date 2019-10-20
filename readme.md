@@ -11,7 +11,7 @@
 ## Admin page
 **Email: dane.sto@gmail.com**
 **Password: admin** <br>
-![App screnshoot](/activities1.png	.png)
+![App screnshoot](/activities1.png)
 
 
 
